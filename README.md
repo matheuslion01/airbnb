@@ -1,0 +1,1 @@
+Realizei esse projeto acadêmico no início do meu curso de Sistemas de Informação. Apliquei meus conhecimentos iniciantes de HTML e CSS. Foi minha primeira prática e utilizar os conhecimentos aprendidos em aula foi muito interessante.
